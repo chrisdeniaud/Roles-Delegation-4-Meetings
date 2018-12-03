@@ -1,0 +1,25 @@
+[largeur_page]=6.3
+[hauteur_page]=8.8
+PAGE=[largeur_page],[hauteur_page],PORTRAIT,HV
+DPI=600
+CARDSIZE=[largeur_page],[hauteur_page]
+[background]=#000000
+
+[all]="1-9"
+FONT = "Arial Rounded MT Bold", 18, B , #08088A, #FFFFFF
+TEXT = [all], "Décider", 5%, 30%, 10%, 40%, center, center, 270
+
+image=[all],"Illustrations/PouceHaut.png", 0, 0.5, 5, 2.5, 0, P
+FONT = "Arial Rounded MT Bold", 12, B , #08088A, #FFFFFF
+TEXT = [all], "Oui", 3.5, 2.4, 1, 1, left
+
+FONT = "Arial Rounded MT Bold", 12, B , #08088A, #FFFFFF
+TEXT = [all], "Je soutiens", 3.5, 3.2, 4, 4, left
+image=[all],"Illustrations/MainNeutre.png", 1.5, 3.3, 3, 2, 0, P
+
+image=[all],"Illustrations/PouceBas.png", 0, 5.8, 5, 2, 0, P
+FONT = "Arial Rounded MT Bold", 12, B , #08088A, #FFFFFF
+TEXT = [all], "Non", 3.5, 7, 1, 1, left
+
+FONT = "Arial", 7, I, #000000, #FFFFFF
+TEXT = [all], "Core Protocols (McCarthy)", 6, 4.5, 0.2, 4, left, center, 270

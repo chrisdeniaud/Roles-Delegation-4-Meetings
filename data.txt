@@ -1,0 +1,24 @@
+id,role,description,complement
+1,Gardien du temps,"Je m'assure que les contraintes de temps de chaque sous-activité soit respectées, ainsi que le temps global de la réunion.",Je communique de façon opportune sur le temps restant de chaque activité pour permettre aux autres participants de ne pas être surpris par la fin d'une activité.
+2,Découpeur,L'élément sur lequel nous nous engageons peut-il être découpé plus finement ?,"<i>(Pour avoir un suivi de l'activité plus fin, permettre à plusieurs personnes de travailler dessus en parallèle, permettre une livraison sur plusieurs sprints, prendre en compte les dépendances externes ...)</i>"
+3,Gardien du cap,Je m'assure que les échanges ne s'éloignent pas trop des sujets à traiter.,"<i>(En stand-up par exemple, les problèmes identifiés n'ont pas pour vocation d'être débattus/analysés en séance)</i>"
+4,Rapporteur,J'assure une capitalisation des échanges réalisés en séance.,
+5,Responsable des livraisons,"Pour chaque élément sur lesquels l'équipe s'engage, je m'assure que tout le monde à la même vision des critères qui permettront de les considérés comme finis.",
+6,Factuel,Je m'assure que les éléments sur lesquels se basent les échanges sont factuels et dénués d'interprétation.,"<i>(Par ex : Quels sont les faits ? Objectivement, ces éléments ne sont-ils pas exagérés ? Sur quels faits s'appuient-ils ?)</i>"
+7,Prudent,Je m'assure que nous avons identifié un maximum de risques et que nous en avons tenu compte dans nos décisions.,Et j'accepte que l'équipe prenne certains risques à partir du moment où ils ont été débattus.
+8,Optimiste,Je suis optimiste et j'accompagne les participants dans la concrétisation de mise en oeuvre de leurs expérimentations.,
+9,Créatif,"Je m'assure d'évoquer toutes les idées, même les plus farfelues. Mon objectif est de proposer aux autres participants les idées les plus disruptives possibles.",
+10,Rationel,Je m'assure que les échanges aboutissent à des décisions SMART.,"<i>(Afin de <b>objectif pertinent</b> nous allons réaliser <b>une action</b> d'ici <b>cette échéance</b>. Nous saurons que nous avons atteint notre objectif lorsque <b>ce résultat mesurable</b> sera atteint.)</i>"
+11,Relationnel,Je m'assure que les débats et les décisions vont dans le sens du bien être de l'équipe et de ses membres.,
+12,Visionnaire,J'invite les participants à se projeter dans notre situation idéale.,
+13,Enquêteur,Je pose un maximum de questions pour m'assurer que l'ensemble des tenants et des aboutissants des décisions prises soient partagés.,
+14,Consultant,"Je propose un maximum de conseils que je juge pertinents, et j'accepte pleinement que ceux-ci ne soient pas adoptés.",
+15,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,
+16,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,
+17,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,
+18,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,
+19,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,
+20,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,
+21,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,
+22,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,
+23,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,

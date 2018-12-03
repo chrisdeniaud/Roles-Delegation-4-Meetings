@@ -1,0 +1,14 @@
+[largeur_page]=6.3
+[hauteur_page]=8.8
+PAGE=[largeur_page],[hauteur_page],PORTRAIT,HV,#FFFFFF, 1-23
+DPI=600
+CARDSIZE=[largeur_page],[hauteur_page]
+
+link="data.txt"
+[all]="1-{(id)}"
+FONT = "Arial Rounded MT Bold", 14, B , #08088A, #FFFFFF
+TEXT = [all], [role], 5%, 5%, 90%, 20%, center, wordwrap
+FONT = "Verdana", 12, , #000000, #FFFFFF
+TEXT = [all], [description], 5%, 20%, 90%, 80%, left, wordwrap
+HTMLFONT = cplt, "Verdana", 10,  , #0040FF
+HTMLTEXT = [all], "<cplt>[complement]</cplt>", 5%, 60%, 90%, 80%
