@@ -3,9 +3,9 @@
 
 Ce projet fourni le nécessaire pour générer, sous forme d'un PDF, un jeu de cartes à destination d'équipes peu rompue aux séances de travail collaboratives.
 
-Dans de telles conditions et faute de repères, plus que mauvaise volonté, on observe fréquemment une certaine passivité, voire même un certain marasme d'une partie de l'équipe, qui ne sait pas se positionner dans le cadre de la collaboration attendue. Cela se traduit souvent par des réunions longues et rarement productives.
+Dans de telles conditions et faute de repères, plus que par mauvaise volonté, on observe fréquemment une certaine passivité, voire même un certain marasme d'une partie de l'équipe, qui ne sait pas se positionner dans le cadre de la collaboration attendue. Cela se traduit souvent par des réunions longues et rarement productives.
 
-L'objet de ce support est donc de formaliser, structurer des rôles à endosser le temps d'une session de travail, en vue de la rendre plus dynamique et efficace possible au regard de l'investissement qu'elle représente.
+L'objet de ce support est donc de formaliser, structurer des rôles à endosser le temps d'une session de travail, en vue de la rendre plus dynamique et efficace au regard de l'investissement qu'elle représente.
 
 ## Téléchargement
 Vous pouvez directement télécharger le jeu de cartes sous sa forme finale : [un PDF prêt à être imprimé](https://www.dropbox.com/s/4gw33m28xljgjep/cards_impression.pdf?dl=0) _en format recto-verso, 9 cartes par page_.
@@ -34,7 +34,10 @@ En préparation d'une réunion ou d'un atelier, en tant que facilitateur, je pr�
 
 _Remarque : Il y a plusieurs occurrence du rôle "participant bienveillant". Il s'agit du rôle par défaut à distribuer en plus des rôles plus ciblés._
 
-En début de séance, je mélange les cartes retenues, puis les distribue à l'ensemble des participants en invitant chacun à incarner, le temps de la séance, le rôle que le hasard lui a affecté.
+En début de séance, je mélange les cartes retenues, puis les distribue à l'ensemble des participant.e.s en invitant chacun.e à incarner, le temps de la séance, le rôle que le hasard lui a affecté.
+Afin de les impliquer un peu plus, je les invite aussi à communiquer ce rôle aux autres participants.
+
+_La transparence comme source d'implication : ça marche ... souvent ;-)._
 
 ## Remarque sur le dos des cartes
 Le dos des cartes sert de support de mémorisation ou de diffusion à un protocole de prise de décisions très efficace de part sa simplicité et sa rapidité de mise en oeuvre : **Décider** des [Core protocols](http://www.mccarthyshow.com/download-the-core/) que nous devons au [couple McCarthy](http://www.mccarthyshow.com/aboutus/).
