@@ -13,7 +13,7 @@ id,role,description,complement
 12,Visionnaire,J'invite les participants à se projeter dans notre situation idéale.,
 13,Enquêteur,Je pose un maximum de questions pour m'assurer que l'ensemble des tenants et des aboutissants des décisions prises soient partagés.,
 14,Consultant,"Je propose un maximum de conseils que je juge pertinents, et j'accepte pleinement que ceux-ci ne soient pas adoptés.",
-15,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,
+15,Diligent,"Je m'assure que toute procrastination est questionnée.","<i>Va-t-on gagner quelque chose à différer cette action ?</i>"
 16,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,
 17,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,
 18,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,
@@ -22,3 +22,4 @@ id,role,description,complement
 21,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,
 22,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,
 23,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,
+24,Participant bienveillant,Je m'assure que la personne en face de moi ait un espace d'expression au sein de la réunion.,

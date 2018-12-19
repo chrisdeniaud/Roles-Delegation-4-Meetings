@@ -1,6 +1,6 @@
 [largeur_page]=6.3
 [hauteur_page]=8.8
-PAGE=[largeur_page],[hauteur_page],PORTRAIT,HV,#FFFFFF, 1-23
+PAGE=[largeur_page],[hauteur_page],PORTRAIT,HV,#FFFFFF, 1-24
 DPI=600
 CARDSIZE=[largeur_page],[hauteur_page]
 
